@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606741383 source:c:\users\ignacio\desktop\ej 2 prog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
